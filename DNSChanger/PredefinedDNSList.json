@@ -1,0 +1,170 @@
+[
+  {
+    "DNSCountry": "AU",
+    "DNSName": "Cloudflare",
+    "DNSAddress": "1.1.1.1",
+    "DNSAddress2": "1.0.0.1"
+  },
+  {
+    "DNSCountry": "US",
+    "DNSName": "Google Public DNS",
+    "DNSAddress": "8.8.8.8",
+    "DNSAddress2": "8.8.4.4"
+  },
+  {
+    "DNSCountry": "US",
+    "DNSName": "OpenDNS",
+    "DNSAddress": "208.67.222.222",
+    "DNSAddress2": "208.67.220.220"
+  },
+  {
+    "DNSCountry": "US",
+    "DNSName": "OpenDNS - 2",
+    "DNSAddress": "208.67.222.220",
+    "DNSAddress2": "208.67.220.222"
+  },
+  {
+    "DNSCountry": "US",
+    "DNSName": "Norton ConnectSafe Basic",
+    "DNSAddress": "199.85.126.10",
+    "DNSAddress2": "199.85.127.10"
+  },
+  {
+    "DNSCountry": "US",
+    "DNSName": "Comodo Secure",
+    "DNSAddress": "8.26.56.26",
+    "DNSAddress2": "8.20.247.20"
+  },
+  {
+    "DNSCountry": "US",
+    "DNSName": "Dyn",
+    "DNSAddress": "216.146.35.35",
+    "DNSAddress2": "216.146.36.36"
+  },
+  {
+    "DNSCountry": "US",
+    "DNSName": "Norton DNS",
+    "DNSAddress": "198.153.192.1",
+    "DNSAddress2": "198.153.194.1"
+  },
+  {
+    "DNSCountry": "US",
+    "DNSName": "Comodo",
+    "DNSAddress": "156.154.70.22",
+    "DNSAddress2": "156.154.71.22"
+  },
+  {
+    "DNSCountry": "US",
+    "DNSName": "VeriSign Public DNS",
+    "DNSAddress": "64.6.64.6",
+    "DNSAddress2": "64.6.65.6"
+  },
+  {
+    "DNSCountry": "US",
+    "DNSName": "Qwest",
+    "DNSAddress": "205.171.3.65",
+    "DNSAddress2": "205.171.2.65"
+  },
+  {
+    "DNSCountry": "US",
+    "DNSName": "Sprint",
+    "DNSAddress": "204.97.212.10",
+    "DNSAddress2": "204.117.214.10"
+  },
+  {
+    "DNSCountry": "US",
+    "DNSName": "Quad9 Security",
+    "DNSAddress": "9.9.9.9",
+    "DNSAddress2": "149.112.112.112"
+  },
+  {
+    "DNSCountry": "US",
+    "DNSName": "Quad9 No Security",
+    "DNSAddress": "9.9.9.10",
+    "DNSAddress2": "149.112.112.10"
+  },
+  {
+    "DNSCountry": "US",
+    "DNSName": "Sprintlink",
+    "DNSAddress": "199.2.252.10",
+    "DNSAddress2": "204.97.212.10"
+  },
+  {
+    "DNSCountry": "US",
+    "DNSName": "UltraDNS",
+    "DNSAddress": "204.69.234.1",
+    "DNSAddress2": "204.74.101.1"
+  },
+  {
+    "DNSCountry": "US",
+    "DNSName": "Neustar 1",
+    "DNSAddress": "156.154.70.1",
+    "DNSAddress2": "156.154.71.1"
+  },
+  {
+    "DNSCountry": "US",
+    "DNSName": "Neustar 2",
+    "DNSAddress": "156.154.70.5",
+    "DNSAddress2": "156.154.71.5"
+  },
+  {
+    "DNSCountry": "GB",
+    "DNSName": "Zen Internet",
+    "DNSAddress": "212.23.8.1",
+    "DNSAddress2": "212.23.3.1"
+  },
+  {
+    "DNSCountry": "GB",
+    "DNSName": "Orange DNS",
+    "DNSAddress": "195.92.195.94",
+    "DNSAddress2": "195.92.195.95"
+  },
+  {
+    "DNSCountry": "RU",
+    "DNSName": "Safe DNS",
+    "DNSAddress": "195.46.39.39",
+    "DNSAddress2": "195.46.39.40"
+  },
+  {
+    "DNSCountry": "RU",
+    "DNSName": "AdGuard",
+    "DNSAddress": "94.140.14.14",
+    "DNSAddress2": "94.140.15.15"
+  },
+  {
+    "DNSCountry": "RU",
+    "DNSName": "Yandex",
+    "DNSAddress": "77.88.8.1",
+    "DNSAddress2": "77.88.8.8"
+  },
+  {
+    "DNSCountry": "DE",
+    "DNSName": "DNS WATCH",
+    "DNSAddress": "84.200.69.80",
+    "DNSAddress2": "84.200.70.40"
+  },
+  {
+    "DNSCountry": "NL",
+    "DNSName": "Freenom World",
+    "DNSAddress": "80.80.80.80",
+    "DNSAddress2": "80.80.81.81"
+  },
+  {
+    "DNSCountry": "DK",
+    "DNSName": "Censurfridns",
+    "DNSAddress": "89.233.43.71",
+    "DNSAddress2": "91.239.100.100"
+  },
+  {
+    "DNSCountry": "AT",
+    "DNSName": "FreeDNS",
+    "DNSAddress": "37.235.1.174",
+    "DNSAddress2": "37.235.1.177"
+  },
+  {
+    "DNSCountry": "FR",
+    "DNSName": "FDN",
+    "DNSAddress": "80.67.169.12",
+    "DNSAddress2": "80.67.169.40"
+  }
+]
